@@ -53,7 +53,7 @@ It completes the Step1 of the assignment
 
 ##Assignment Step:2 Extract only the measurements on the mean and standard deviation for each measurement
 - (a): Read feature data
-- (b): Identify measures that contain strings mean() and std() and create indices
+- (b): Identify measures that contain strings mean() and std() and create indices Note: The meanFreq() observations were omitted as they don't have corresponding std() measures.
 - (c): Extract only the measurements on the mean() and std() from the combined data using the indices
 - (d): Remove "()" from column names
 - (e): Capitalize M of mean
