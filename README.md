@@ -78,7 +78,7 @@ It completes the Step3
 - (c):Combine subject and label with the combined train-test data
 - (d):Write the data out to a local text file
 
-##Assignment Step:5 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject *
+##Assignment Step:5 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject 
 - (a):Find the size of the dimensions namely Subject count, Activity 
 - (b):Loop through the combination to find the average of the measurements
 - (c):Write the data out to a file
